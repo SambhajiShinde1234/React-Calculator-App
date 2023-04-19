@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SambhajiShinde1234.github.io/React-Calculator-App/static/css/main.6fd24bc2.css",
+    "main.js": "/SambhajiShinde1234.github.io/React-Calculator-App/static/js/main.911feac2.js",
+    "index.html": "/SambhajiShinde1234.github.io/React-Calculator-App/index.html",
+    "main.6fd24bc2.css.map": "/SambhajiShinde1234.github.io/React-Calculator-App/static/css/main.6fd24bc2.css.map",
+    "main.911feac2.js.map": "/SambhajiShinde1234.github.io/React-Calculator-App/static/js/main.911feac2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fd24bc2.css",
+    "static/js/main.911feac2.js"
+  ]
+}
