@@ -1,14 +1,19 @@
-# Getting Started with Create React App
+## You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
-This project was bootstrapped with [Create React App].
+=>  git clone "https://github.com/SambhajiShinde1234/React-Calculator-App"  
 
-## Available Scripts
+## Go to the project directory
 
-In the project directory, you can run app as follows:
+=> cd React-Calculator-App
+
+## Install dependencies
+
+=>  npm install
+
+## Start the server
+
+=> npm run start
 
 
--> Open 'Calculator' app with vs-code 
--> Then type following command in Terminal to run the app
 
-
-### `npm start`
+Hurray!!! Your React-Calculator-App is Live✨✨🎉🎉
